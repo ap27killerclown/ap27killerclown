@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ap27killerclown
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning web designing (html5/css)
+- 🌱 I’m currently learning web designing (html5/css/python)
 - 💞️ I’m looking to collaborate on anything helping me understand more in IT
 - 📫 How to reach me ap27_killerclown #4087 (discord) 
 

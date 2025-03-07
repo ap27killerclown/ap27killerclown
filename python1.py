@@ -13,3 +13,14 @@ print(course)
 print(course.lower())
 print(course.find('y'))
 print(course.replace("for","4")) 
+temperature = float(input("what is today's temperature ")
+if:
+     temperature >= 30
+     print = ("it's a hot day")
+     print = ("drink plenty of water ")
+elif:
+     temperature < 20
+     print = ("it's a cold day ")
+     print = ("wear warm clothes ")
+else:
+     print = (“it's a nice day")

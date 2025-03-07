@@ -23,4 +23,4 @@ elif:
      print("it's a cold day ")
      print("wear warm clothes ")
 else:
-     print = (“it's a nice day")
+     print(“it's a nice day")
